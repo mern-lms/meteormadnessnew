@@ -1,0 +1,23 @@
+{
+  "name": "asteroid-impact-simulator",
+  "version": "1.0.0",
+  "description": "Interactive asteroid impact visualization and simulation tool with NASA NEO API integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo 'Static site - no server needed'",
+    "dev": "echo 'Static site - no server needed'",
+    "build": "echo 'No build step needed for static deployment'",
+    "vercel-build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "asteroid",
+    "nasa",
+    "simulation",
+    "visualization",
+    "impact"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
